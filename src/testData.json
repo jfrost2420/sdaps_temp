@@ -1,0 +1,12 @@
+[
+  {
+    "id": "123",
+    "name": "john",
+    "classes": [
+      {
+        "classId": "2332",
+        "name": "Algebra 1"
+      }
+    ]
+  }
+]
